@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('./Fonts/RobotoSlab-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('./Fonts/RobotoSlab-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('./Fonts/RobotoSlab-Thin.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'RobotoSlab', sans-serif;
+}
+
+body {
+  color: black;
+}
